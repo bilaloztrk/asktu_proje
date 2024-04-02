@@ -60,7 +60,7 @@ class WelcomeScreen extends StatelessWidget {
                     ElevatedButton(
                       onPressed: () {},
                       style: ElevatedButton.styleFrom(
-                        primary: Colors.green,
+                        backgroundColor: Colors.green,
                         padding:
                             EdgeInsets.symmetric(horizontal: 30, vertical: 20),
                         shape: RoundedRectangleBorder(
@@ -72,7 +72,7 @@ class WelcomeScreen extends StatelessWidget {
                     ElevatedButton(
                       onPressed: () {},
                       style: ElevatedButton.styleFrom(
-                        primary: Colors.green,
+                        backgroundColor: Colors.green,
                         padding:
                             EdgeInsets.symmetric(horizontal: 30, vertical: 20),
                         shape: RoundedRectangleBorder(

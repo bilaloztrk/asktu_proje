@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356418508888",
+    "project_id": "astku-proje",
+    "storage_bucket": "astku-proje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356418508888:android:0dbf5a7b34b53e17c1922d",
+        "android_client_info": {
+          "package_name": "com.example.asktu_proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6559qxdGL6-435rr8t6e2hXf2OQk-CsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -51,9 +51,8 @@ class GirisEkrani extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   TextButton(
-                    onPressed: () {
-                      // Kayıt ol sayfasına yönlendirme işlemleri burada yapılabilir
-                    },
+                    onPressed: () =>
+                        Navigator.pushNamed(context, "/signupPage"),
                     child: const Text(
                       'Hemen Kayıt Ol!',
                       style: TextStyle(color: Colors.blue),

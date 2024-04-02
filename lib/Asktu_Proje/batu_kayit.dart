@@ -55,7 +55,7 @@ class KayitOlEkrani extends StatelessWidget {
                   labelText: 'Gmail',
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(10.0),
-                  ),
+                  ), 
                 ),
               ),
               SizedBox(height: 20),
@@ -64,7 +64,7 @@ class KayitOlEkrani extends StatelessWidget {
                   // Kayıt ol butonuna tıklama işlemleri burada gerçekleştirilebilir
                 },
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.green,
+                  backgroundColor: Colors.green,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(30),
                   ),
